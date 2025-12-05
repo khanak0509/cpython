@@ -1,0 +1,2 @@
+Document the ``delta`` parameter for the :opcode:`!END_ASYNC_FOR` opcode,
+which was added in Python 3.14. Patch by Khanak.
